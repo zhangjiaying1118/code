@@ -1,0 +1,12 @@
+html,body{
+    /*以下两个设置确保全屏占满*/
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#app{
+    width: 100%;
+    height: 100%;
+}
